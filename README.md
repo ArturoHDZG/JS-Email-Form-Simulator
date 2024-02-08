@@ -14,7 +14,7 @@ This project is a simulation of an email form built entirely with vanilla JavaSc
 To use the Email Form Simulator, simply fill out the form fields and click the submit button. If a field is invalid or missing, you will be alerted and the submit button will be disabled. Once all fields are valid, the submit button will be enabled and you can submit the form.
 
 ## GitHub Pages
-This project is hosted on GitHub Pages. You can view the live demo here.
+This project is hosted on GitHub Pages. You can view the live demo [here](https://arturohdzg.github.io/JS-Email-Form-Simulator/).
 
 ## Contributing
 Contributions are welcome! Please read the contributing guidelines before getting started.
